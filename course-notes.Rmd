@@ -1,0 +1,38 @@
+---
+title: "Advanced wrangling of ecological data in R"
+author: "C Buelow, CJ Brown"
+date: "18/10/2020"
+output: html_document
+---
+
+## Advanced data wrangling in R
+
+In this course we'll move beyond the basics of data wrangling in R. We'll assume that you know the basics of data wrangling in R with the packages 'dplyr' and 'tidyr'. If you need a refresher, see our Conservation Hackers data wrangling course notes [here](http://www.seascapemodels.org/RLS-data-prep-course/2020-07-29-ConservationHackers-data-wrangling-course.html), or other valuable tutorials [here](link to conshackers blog post).
+
+We'll introduce some of the fundamentals of advanced coding in R so that you can apply these advanced skills to your own data. If you're looking for a comprehensive resource on all of R's advanced capability, we recommend [Hadley Wickham's book](https://adv-r.hadley.nz/).
+
+We'll use blank-blank data to explore some of R's advanced functionality, focusing on some skills that in our experience have been most useful. If you work with large datasets or have complex data wrangling needs, this course is for you.
+
+### Pattern matching and replacement
+#### * Also creating a unique identifier?
+
+### If-else statements
+
+### For loops
+#### * Reading in many files with list.fils and for loops
+#### * Storing ouputs of for loop
+
+### Parallel for loops for speed
+
+### Functions
+#### * + Vectorisation
+
+### Combining it all
+
+### Data arrays (?)
+
+### Unit testing
+
+### Data simulation (?)
+
+
