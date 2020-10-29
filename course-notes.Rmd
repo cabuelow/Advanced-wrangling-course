@@ -18,7 +18,7 @@ We'll use blank-blank data to explore some of R's advanced functionality, focusi
 
 ### R projects for easy collaboration
 
-### Pattern matching and replacement
+### Pattern matching and replacement, ifelse
 #### * Also creating a unique identifier - dplyr function unique?
 
 ### If-else statements
@@ -27,17 +27,10 @@ We'll use blank-blank data to explore some of R's advanced functionality, focusi
 #### * Reading in many files with list.fils and for loops
 #### * Storing ouputs of for loop
 
-### Parallel for loops for speed
-
-### Functions
-#### * + Vectorisation
+### Functions for efficient coding
 
 ### Combining it all
 
-### Data arrays (?)
-
-### Unit testing
-
-### Data simulation (?)
+### Bonus material: Parallel for loops for speed
 
 
